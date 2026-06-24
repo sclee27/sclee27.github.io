@@ -1,13 +1,7 @@
 ---
 permalink: /
-title: "Home"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
-
-Coming soon...
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
